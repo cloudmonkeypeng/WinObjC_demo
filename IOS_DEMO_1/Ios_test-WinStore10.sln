@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ios_test", "Ios_test", "{498AF283-DB26-4F0D-AE5A-E2C24F375A50}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ios_test-Headers", "Ios_test.vsimporter\Ios_test-Headers-WinStore10\Ios_test-Headers.vcxitems", "{3FA881A3-AE47-427B-BC22-6B9250043186}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ios_test", "Ios_test.vsimporter\Ios_test-WinStore10\Ios_test.vcxproj", "{9FF326FA-5120-4CBC-8654-E43D603790D6}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Ios_test.vsimporter\Ios_test-Headers-WinStore10\Ios_test-Headers.vcxitems*{3FA881A3-AE47-427B-BC22-6B9250043186}*SharedItemsImports = 9
+		Ios_test.vsimporter\Ios_test-Headers-WinStore10\Ios_test-Headers.vcxitems*{9FF326FA-5120-4CBC-8654-E43D603790D6}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FF326FA-5120-4CBC-8654-E43D603790D6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9FF326FA-5120-4CBC-8654-E43D603790D6}.Debug|Win32.Build.0 = Debug|Win32
+		{9FF326FA-5120-4CBC-8654-E43D603790D6}.Debug|Win32.Deploy.0 = Debug|Win32
+		{9FF326FA-5120-4CBC-8654-E43D603790D6}.Release|Win32.ActiveCfg = Release|Win32
+		{9FF326FA-5120-4CBC-8654-E43D603790D6}.Release|Win32.Build.0 = Release|Win32
+		{9FF326FA-5120-4CBC-8654-E43D603790D6}.Release|Win32.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3FA881A3-AE47-427B-BC22-6B9250043186} = {498AF283-DB26-4F0D-AE5A-E2C24F375A50}
+		{9FF326FA-5120-4CBC-8654-E43D603790D6} = {498AF283-DB26-4F0D-AE5A-E2C24F375A50}
+	EndGlobalSection
+EndGlobal
