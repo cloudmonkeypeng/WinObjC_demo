@@ -1,13 +1,13 @@
-﻿Build started 9/17/2015 4:54:31 PM.
-     1>Project "C:\Users\pengzh\Desktop\Winobjc\samples\IOS_DEMO_1\Ios_test.vsimporter\Ios_test-WinStore10\Ios_test.vcxproj" on node 2 (Build target(s)).
+﻿Build started 9/17/2015 5:16:32 PM.
+     1>Project "C:\Users\pengzh\Documents\GitHub\WinObjC_demo\IOS_DEMO_1\Ios_test.vsimporter\Ios_test-WinStore10\Ios_test.vcxproj" on node 2 (Build target(s)).
      1>_ClangCompile:
          C:\Users\pengzh\Desktop\Winobjc\msvc\LLVM-3.6.0\\bin\clang.exe -cc1 -internal-isystem C:\Users\pengzh\Desktop\Winobjc\msvc\..\include\WOCStdLib -include WOCStdlib.h -cc1 -triple i686-pc-windows-msvc -internal-isystem "[LLVMResourceDir]\include" -emit-obj -disable-free -main-file-name [InputFileName] -mrelocation-model static -mthread-model posix -mdisable-fp-elim -relaxed-aliasing -fmath-errno -masm-verbose -mconstructor-aliases -target-cpu pentium4 -fdiagnostics-format msvc -fno-caret-diagnostics -dwarf-column-info -coverage-file [Input] -resource-dir "[LLVMResourceDir]" -fdebug-compilation-dir [InputAbsDir] -ferror-limit 19 -mstackrealign -fms-extensions -fms-compatibility -fms-compatibility-version=17.00 -fdelayed-template-parsing -fobjc-runtime=objfw -fdiagnostics-show-option -D_HAS_EXCEPTIONS=0 -DWINOBJC -DWINAPI_FAMILY=WINAPI_FAMILY_APP -D_WINSOCK_DEPRECATED_NO_WARNINGS  [ObjectFileName] -fconst-strings -fconstant-string-class CFConstantString -fblocks -I"C:\Users\pengzh\Desktop\Winobjc\msvc\..\deps\prebuilt\include" -I"C:\Users\pengzh\Desktop\Winobjc\msvc\..\include\Platform\Universal Windows" -fmsvc-real-char [Input] -iquote"Debug\Ios_test-project.hmap" -D_DEBUG -D_MT -D_DLL --dependent-lib=msvcrtd --dependent-lib=oldnames -O0 -mrelax-all -g -fexceptions -fobjc-exceptions -fcxx-exceptions -fobjc-arc -internal-isystem "C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include" -internal-isystem "C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include" -internal-isystem "C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt" -internal-isystem "C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\um" -internal-isystem "C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\shared" -internal-isystem "C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\winrt" -internal-isystem "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\Include\um" -internal-isystem "C:\Users\pengzh\Desktop\Winobjc\include" -internal-isystem "C:\Users\pengzh\Desktop\Winobjc\include\VCInclude" -DDEBUG=1 -x objective-c  [DependencySource] [DependencyFile] [AdditionalOptions] 
          ..\..\Ios_test\ViewController.m
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\pengzh\Desktop\Winobjc\samples\IOS_DEMO_1\Debug\Ios_test\Ios_test.exe" /NOLOGO /LIBPATH:"C:\Users\pengzh\Desktop\Winobjc\msvc\..\lib\Universal Windows\x86" /LIBPATH:"C:\Users\pengzh\Desktop\Winobjc\msvc\..\lib\Universal Windows\x86" WindowsApp.lib /MANIFEST:NO /Debug /PDB:"C:\Users\pengzh\Desktop\Winobjc\samples\IOS_DEMO_1\Debug\Ios_test\Ios_test.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /APPCONTAINER /WINMD /WINMDFILE:"C:\Users\pengzh\Desktop\Winobjc\samples\IOS_DEMO_1\Debug\Ios_test\Ios_test.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /SAFESEH Debug\ConsumeRuntimeComponent.obj
-         Debug\ViewController_7CD82577.obj
-         Debug\AppDelegate_82322447.obj
-         Debug\main_1D9D63BB.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\pengzh\Documents\GitHub\WinObjC_demo\IOS_DEMO_1\Debug\Ios_test\Ios_test.exe" /NOLOGO /LIBPATH:"C:\Users\pengzh\Desktop\Winobjc\msvc\..\lib\Universal Windows\x86" /LIBPATH:"C:\Users\pengzh\Desktop\Winobjc\msvc\..\lib\Universal Windows\x86" WindowsApp.lib /MANIFEST:NO /Debug /PDB:"C:\Users\pengzh\Documents\GitHub\WinObjC_demo\IOS_DEMO_1\Debug\Ios_test\Ios_test.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /APPCONTAINER /WINMD /WINMDFILE:"C:\Users\pengzh\Documents\GitHub\WinObjC_demo\IOS_DEMO_1\Debug\Ios_test\Ios_test.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /SAFESEH Debug\ConsumeRuntimeComponent.obj
+         Debug\ViewController_E1C6838.obj
+         Debug\AppDelegate_D325EDE3.obj
+         Debug\main_43C1E2C0.obj
          StarboardXaml.lib
          Starboard.lib
          objcrt.lib
@@ -18,11 +18,11 @@
          CoreGraphics.lib
          objcuwp.lib
          libdispatch.lib
-         Ios_test.vcxproj -> C:\Users\pengzh\Desktop\Winobjc\samples\IOS_DEMO_1\Debug\Ios_test\Ios_test.exe
+         Ios_test.vcxproj -> C:\Users\pengzh\Documents\GitHub\WinObjC_demo\IOS_DEMO_1\Debug\Ios_test\Ios_test.exe
      1>C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\AppxPackage\Microsoft.AppXPackage.Targets(1673,5): warning APPX0104: Certificate file 'Ios_test_TemporaryKey.pfx' not found.
      1>C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\AppxPackage\Microsoft.AppXPackage.Targets(1673,5): warning APPX0107: The certificate specified is not valid for signing. For more information about valid certificates, see http://go.microsoft.com/fwlink/?LinkID=241478.
-     1>Done Building Project "C:\Users\pengzh\Desktop\Winobjc\samples\IOS_DEMO_1\Ios_test.vsimporter\Ios_test-WinStore10\Ios_test.vcxproj" (Build target(s)).
+     1>Done Building Project "C:\Users\pengzh\Documents\GitHub\WinObjC_demo\IOS_DEMO_1\Ios_test.vsimporter\Ios_test-WinStore10\Ios_test.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:07.00
+Time Elapsed 00:00:06.97

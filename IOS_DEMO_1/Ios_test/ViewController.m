@@ -18,9 +18,9 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 
-	UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(0, 100, 20000, 30)];
+	UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(0, 100, 400, 30)];
     
-    label.text = @"Hello World, Hello IslandWood,Hello WinObjC";
+    label.text = @"Hello World, Hello WinObjC";
     
     label.backgroundColor = [UIColor blackColor];
     
